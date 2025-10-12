@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  postgres:
+    ports:
+      # map to a non-standard host port to avoid common local conflicts
+      - '5433:5432'
+  redis:
+    ports:
+      - '6380:6379'
