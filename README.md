@@ -1,12 +1,15 @@
-TaskTool server - scaffold
+
+
+u gotta download node
 
 Quick start (local/docker):
 
 1. Copy `.env.example` -> `.env` and adjust values if needed.
 2. npm ci
-3. npx prisma generate --schema=server/prisma/schema.prisma
-4. npm run build
-5. Run locally: `npm start` or use docker-compose (recommended):
+3. npm install
+4. npx prisma generate --schema=server/prisma/schema.prisma
+5. npm run build
+6. Run locally: `npm start` or use docker-compose (recommended):
 
 	```bash
 	cd tasktool-server
