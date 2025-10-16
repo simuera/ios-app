@@ -1,0 +1,14 @@
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/APIClient.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/App.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/AuthService.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/AuthViewModel.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/CombineAPIClient.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/ContentView.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/Environment.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/JWTDecoder.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/KeychainHelper.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/LoginView.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/Models.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/NetworkError.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/RegisterView.swift
+/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/TagScanView.swift

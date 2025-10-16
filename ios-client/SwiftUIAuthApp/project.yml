@@ -1,0 +1,48 @@
+name: SwiftUIAuthApp
+
+options:
+  bundleIdPrefix: com.example
+
+configs:
+  Debug: debug
+  Release: release
+
+settings:
+  PRODUCT_BUNDLE_IDENTIFIER: com.example.SwiftUIAuthApp
+
+targets:
+  SwiftUIAuthApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    bundleId: "com.example.SwiftUIAuthApp"
+    info:
+      path: Info.plist
+    sources:
+      - path: .
+        excludes:
+          - Tests/**
+    settings:
+      SWIFT_VERSION: 5.0
+
+  SwiftUIAuthAppTests:
+    type: bundle.unit-test
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - path: Tests/SwiftUIAuthAppTests
+    settings:
+      SWIFT_VERSION: 5.0
+
+schemes:
+  SwiftUIAuthApp:
+    build:
+      targets:
+        SwiftUIAuthApp: [build]
+        SwiftUIAuthAppTests: [test]
+    run:
+      config: Debug
+    test:
+      config: Debug
+      testTargets:
+        - SwiftUIAuthAppTests

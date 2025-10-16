@@ -1,0 +1,149 @@
+{
+  "" : {
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/SwiftUIAuthApp-primary.dia",
+    "emit-module-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/SwiftUIAuthApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/SwiftUIAuthApp-primary-emit-module.dia",
+    "pch" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/SwiftUIAuthApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/SwiftUIAuthApp-primary.swiftdeps"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/APIClient.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/APIClient~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/App.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/App~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/AuthService.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthService~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/AuthViewModel.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/AuthViewModel~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/CombineAPIClient.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/CombineAPIClient~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/ContentView.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/Environment.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Environment~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/JWTDecoder.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/JWTDecoder~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/KeychainHelper.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/KeychainHelper~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/LoginView.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/Models.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/NetworkError.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/NetworkError~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/RegisterView.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/RegisterView~partial.swiftmodule"
+  },
+  "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/TagScanView.swift" : {
+    "const-values" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.swiftconstvalues",
+    "dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.d",
+    "diagnostics" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.dia",
+    "index-unit-output-path" : "/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.o",
+    "llvm-bc" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.bc",
+    "object" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.o",
+    "swift-dependencies" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView.swiftdeps",
+    "swiftmodule" : "/Users/emiralakus/super-engine/super-engine/tasktool-server/ios-client/SwiftUIAuthApp/build/SwiftUIAuthApp.build/Debug-iphoneos/SwiftUIAuthApp.build/Objects-normal/arm64/TagScanView~partial.swiftmodule"
+  }
+}
