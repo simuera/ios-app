@@ -29,7 +29,7 @@ Quick start (local/docker):
 	docker-compose up -d --build
 	curl http://localhost:3000/api/health
 	```
-
+ might wanna run the code on xcode
 Troubleshooting:
 
 - If containers try to connect to `127.0.0.1` for Redis/Postgres, ensure you use the compose stack defaults or set `DATABASE_URL`/`REDIS_URL` to the service hostnames (e.g. `postgres`, `redis`).
