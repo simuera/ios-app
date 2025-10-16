@@ -12,28 +12,30 @@ If you want to request a commercial license or discuss usage rights, contact: **
 
 See the full [LICENSE.md](./LICENSE.md) for complete terms.
 
+# 1. Setup environment
+cp .env.example .env
 
-u gotta download node
+# 2. Install dependencies
+npm ci
+npm install
 
-Quick start (local/docker):
+# 3. Generate Prisma client
+npx prisma generate --schema=server/prisma/schema.prisma
 
-1. Copy `.env.example` -> `.env` and adjust values if needed.
-2. npm ci
-3. npm install
-4. npx prisma generate --schema=server/prisma/schema.prisma
-5. npm run build
-6. Run locally: `npm start` or use docker-compose (recommended):
+# 4. Build
+npm run build
 
-	```bash
-	cd tasktool-server
-	docker-compose up -d --build
-	curl http://localhost:3000/api/health
-	```
- might wanna run the code on xcode
-Troubleshooting:
+# 5. Run server
+npm start
+# DOCKER
+cd tasktool-server
+docker-compose up -d --build
+curl http://localhost:3000/api/health
 
-- If containers try to connect to `127.0.0.1` for Redis/Postgres, ensure you use the compose stack defaults or set `DATABASE_URL`/`REDIS_URL` to the service hostnames (e.g. `postgres`, `redis`).
-- If you get Prisma native engine errors inside containers, the Dockerfile uses a Debian-based node image so OpenSSL is available; rebuild images after changes.
-- To free host ports (5432/6379/3000) stop local services or change compose port mappings in `docker-compose.yml`.
+# Swift Setup (Xcode)
 
-Worker: `npm run worker` or containerized via docker-compose (service `worker`).
+Open the iOS project in Xcode
+
+Set API base URL to http://localhost:3000 (simulator) or http://<your-ip>:3000 (physical device)
+
+Build & run
